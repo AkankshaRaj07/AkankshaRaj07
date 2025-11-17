@@ -1,11 +1,31 @@
-<h1 align="center">Hi 👋, I'm Akanksha Kumari</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<!-- Gradient Header -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff7eb3); -webkit-background-clip: text; color: transparent;">
+    Hi 👋, I'm Akanksha Kumari
+  </span>
+</h1>
 
-- 🌱 I’m currently learning **React.js and practicing DSA.**
+<h3 align="center">Full Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
 
-- 👯 I’m looking to collaborate on **Full Stack Projects.**
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akanksharaj07&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/akanksharaj07?logo=github&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/akanksharaj07?logo=github&style=for-the-badge" alt="stars" />
+</p>
 
-- 📫 How to reach me **akanksha9123@gmail.com**
+<!-- Small GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
+</p>
+
+🚀 I build scalable and user-friendly full-stack applications using **JavaScript**, **Node.js**, **Express**, **React**, and **MongoDB**.  
+💡 I enjoy solving problems with **DSA**, writing optimized backend logic, and creating clean UI experiences.
+
+- 🌱 I’m currently learning **React.js** and practicing **DSA**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 📫 Reach me at: **akanksha9123@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
