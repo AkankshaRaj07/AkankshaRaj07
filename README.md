@@ -5,7 +5,8 @@
   </span>
 </h1>
 
-<h3 align="center">Full Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN | Java | DSA | Open Source Enthusiast
+</h3>
 
 <!-- Badges -->
 <p align="center">
