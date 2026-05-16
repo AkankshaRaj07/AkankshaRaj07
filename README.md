@@ -1,45 +1,175 @@
-<!-- Gradient Header -->
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff7eb3); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Akanksha Kumari
-  </span>
-</h1>
+<h1 align="center">Hi 👋, I'm Akanksha Kumari</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Java | DSA Enthusiast | Open Source Contributor</h3>
 
-<h3 align="center">Full Stack Developer | MERN | Java | DSA | Open Source Enthusiast
-</h3>
-
-<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akanksharaj07&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/akanksharaj07?logo=github&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/stars/akanksharaj07?logo=github&style=for-the-badge" alt="stars" />
+  <a href="https://github.com/akanksharaj07">
+    <img src="https://komarev.com/ghpvc/?username=akanksharaj07&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
+  </a>
+  
+  <a href="https://github.com/akanksharaj07?tab=followers">
+    <img src="https://img.shields.io/github/followers/akanksharaj07?logo=github&style=for-the-badge" alt="followers"/>
+  </a>
+
+  <a href="https://github.com/akanksharaj07">
+    <img src="https://img.shields.io/github/stars/akanksharaj07?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="stars"/>
+  </a>
 </p>
 
-<!-- Small GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
-</p>
+---
 
-🚀 I build scalable and user-friendly full-stack applications using **JavaScript**, **Node.js**, **Express**, **React**, and **MongoDB**.  
-💡 I enjoy solving problems with **DSA**, writing optimized backend logic, and creating clean UI experiences.
+## 🚀 About Me
 
-- 🌱 I’m currently learning **React.js** and practicing **DSA**
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-- 📫 Reach me at: **akanksha9123@gmail.com**
+- 🎓 BTech CSE Student at **LNCT Excellence** (CGPA: **8.83**)
+- 💻 Passionate about **Full Stack Development**, **Backend Systems**, and **Problem Solving**
+- 🧠 Solved **450+ DSA problems** across LeetCode, GFG, and Codeforces
+- 🏆 **LeetCode Rating: 1766** (Top ~10%)
+- 🌱 Currently learning **Advanced React.js**, **System Design**, and **Backend Architecture**
+- 👯 Open to collaborating on **MERN**, **AI**, and **Open Source** projects
+- ⚡ Love building scalable products with clean UI and optimized backend logic
 
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/akanksha-kumari-b82129276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akanksha-kumari-b82129276/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/7izevn81o2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/7izevn81o2/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akanksha-kumari-b82129276/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/7izevn81o2/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
+
+<a href="mailto:akanksha9123@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+# 💻 Tech Stack
+
+### 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### 🛢️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,androidstudio,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Collixa — AI Powered Intent Marketplace
+**Tech Stack:** Next.js, TypeScript, Express.js, PostgreSQL, JWT, Gemini AI
+
+- AI-powered collaboration & marketplace platform
+- Real-time chat and Jitsi-based meetings
+- Secure authentication & scalable REST APIs
+- Smart collaborator recommendations using Gemini AI
+- Credit wallet system backed by PostgreSQL
+
+---
+
+## 🔹 StudentConnect
+**Tech Stack:** MERN Stack, JWT Authentication, REST APIs
+
+- Campus utility platform for students
+- Marketplace for buying/selling products
+- Lost & found management system
+- Hackathon teammate finder
+- Full-stack scalable web application
+
+---
+
+## 🔹 EarlyGuard — Silent Disease Prediction System
+**Tech Stack:** ML, Kaggle, Prompt Engineering
+
+- Predicts disease risks from clinical and lifestyle data
+- Generates unified preventive health assessment
+- ML-driven early risk prediction system
+
+---
+
+## 🔹 Surakshak — Behaviour Based Authentication
+**Tech Stack:** Android (Java), Node.js, Python, MongoDB
+
+- Continuous authentication using behavioral biometrics
+- Typing rhythm, touch pressure & swipe dynamics analysis
+- Real-time anomaly detection & risk scoring
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Winner — Research Conclave 2025
+- 🥇 Winner — Smart India Hackathon Internal Round 2025
+- 🏅 Finalist — Suraksha Cyber Hackathon by Canara Bank
+- 🏅 Finalist — HackOrbit National Hackathon by MITS Gwalior
+- 🚀 Selected for PwC Launchpad Program 2026 (Top 50/2200)
+
+---
+
+# 📚 Research Work
+
+### The Failure of AI Safety Systems Against Hallucination Generated Misinformation
+
+Proposed a **Unified Prevention Framework (UPF)** using:
+- Retrieval Grounding
+- Constrained Generation
+- Self Verification
+- Risk Scoring
+
+to reduce hallucination-driven misinformation in LLMs.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%20Languages-JS%20%7C%20Python-lightgrey?style=for-the-badge&logo=github" alt="top-langs"/>
-  <img src="https://img.shields.io/badge/Contributions-Active-lightgrey?style=for-the-badge&logo=github" alt="contribs"/>
-  <img src="https://img.shields.io/badge/Followers-Your%20Followers-lightgrey?style=for-the-badge&logo=github" alt="followers"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akanksharaj07&show_icons=true&theme=radical" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akanksharaj07&theme=radical" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksharaj07&layout=compact&theme=radical"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- Advanced MERN Development
+- Backend Scalability
+- Data Structures & Algorithms
+- Open Source Contributions
+- AI Integrated Applications
+
+---
+
+## 📄 Resume
+
+📌 Resume attached here: [Resume](./RESUME.pdf)
+
+---
+
+<h3 align="center">⭐ Building impactful products through code and innovation ⭐</h3>
