@@ -99,11 +99,6 @@
 - Open Source Contributions
 - AI Integrated Applications
 
----
-
-## 📄 Resume
-
-📌 Resume attached here: [Resume](./RESUME.pdf)
 
 ---
 
