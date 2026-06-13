@@ -5,7 +5,6 @@
 
 <br/>
 
-<!-- Live badges -->
 <a href="https://github.com/akanksharaj07">
   <img src="https://komarev.com/ghpvc/?username=akanksharaj07&label=Profile+Views&color=d4537e&style=flat-square" />
 </a>
@@ -22,7 +21,6 @@
 
 <br/><br/>
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=d4537e&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+applications;MERN+%7C+Java+%7C+System+Design+%7C+DSA;450%2B+DSA+problems+%7C+LeetCode+1766;Open+to+MERN%2C+AI+%26+Open+Source+collab" />
 
 </div>
@@ -61,43 +59,104 @@ open_to  : MERN  ·  AI  ·  Open Source collaborations
 
 <div align="center">
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<table>
+  <tr>
+    <td align="center" colspan="5"><b>— Languages —</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" /><br/>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" /><br/>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" /><br/>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" /><br/>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" /><br/>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5"><b>— Frontend —</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" /><br/>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" /><br/>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" /><br/>Tailwind
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><br/>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><br/>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5"><b>— Backend —</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" height="48" /><br/>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" /><br/>Express
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" /><br/>FastAPI
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" /><br/>Flask
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5"><b>— Databases —</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" /><br/>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" /><br/>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" /><br/>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" /><br/>Supabase
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="5"><b>— Tools —</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" /><br/>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /><br/>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" /><br/>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" /><br/>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" /><br/>Postman
+    </td>
+  </tr>
+</table>
 
 </div>
 
