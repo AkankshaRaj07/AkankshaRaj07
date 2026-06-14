@@ -55,110 +55,110 @@ open_to  : MERN  ·  AI  ·  Open Source collaborations
 
 ---
 
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+
 ## 💻 Tech Stack
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center" colspan="5"><b>— Languages —</b></td>
+    <td align="center" colspan="10"><b>— Languages —</b></td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" /><br/>Java
+    <td align="center" width="10%">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" /><br/><sub>Java</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" /><br/>JavaScript
+    <td align="center" width="10%">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" /><br/><sub>JavaScript</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" /><br/>TypeScript
+    <td align="center" width="10%">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" /><br/><sub>TypeScript</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" /><br/>Python
+    <td align="center" width="10%">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" /><br/><sub>Python</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" /><br/>C
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" /><br/><sub>C++</sub>
     </td>
+    <td align="center" width="10%" colspan="5"></td>
   </tr>
   <tr>
-    <td align="center" colspan="5"><b>— Frontend —</b></td>
+    <td align="center" colspan="10"><b>— Frontend —</b></td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" /><br/>React
+    <td align="center" width="10%">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" /><br/><sub>React</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" /><br/>Next.js
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" /><br/><sub>Next.js</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" /><br/>Tailwind
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" /><br/><sub>Tailwind</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><br/>HTML5
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" /><br/><sub>HTML5</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><br/>CSS3
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" /><br/><sub>CSS3</sub>
     </td>
+    <td align="center" width="10%" colspan="5"></td>
   </tr>
   <tr>
-    <td align="center" colspan="5"><b>— Backend —</b></td>
+    <td align="center" colspan="10"><b>— Backend & Databases —</b></td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" height="48" /><br/>Node.js
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" /><br/><sub>Node.js</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" /><br/>Express
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" /><br/><sub>Express</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" /><br/>FastAPI
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" /><br/><sub>FastAPI</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" /><br/>Flask
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" /><br/><sub>Flask</sub>
     </td>
-    <td></td>
+    <td align="center" width="10%">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" /><br/><sub>MySQL</sub>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" /><br/><sub>MongoDB</sub>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" /><br/><sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55" height="55" /><br/><sub>Supabase</sub>
+    </td>
+    <td align="center" width="10%" colspan="2"></td>
   </tr>
   <tr>
-    <td align="center" colspan="5"><b>— Databases —</b></td>
+    <td align="center" colspan="10"><b>— Tools —</b></td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" /><br/>MySQL
+    <td align="center" width="10%">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" /><br/><sub>GitHub</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" /><br/>MongoDB
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" /><br/><sub>Git</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" /><br/>PostgreSQL
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" /><br/><sub>VS Code</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" /><br/>Supabase
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" /><br/><sub>Figma</sub>
     </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="5"><b>— Tools —</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" /><br/>GitHub
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" /><br/><sub>Postman</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /><br/>Git
+    <td align="center" width="10%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55" /><br/><sub>Android Studio</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" /><br/>VS Code
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" /><br/>Figma
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" /><br/>Postman
-    </td>
+    <td align="center" width="10%" colspan="4"></td>
   </tr>
 </table>
-
-</div>
 
 ---
 
@@ -191,6 +191,10 @@ open_to  : MERN  ·  AI  ·  Open Source collaborations
 | 🤖 AI-Integrated Applications | 🟡 Exploring |
 
 </div>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
