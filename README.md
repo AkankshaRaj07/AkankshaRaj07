@@ -19,13 +19,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/CGPA-8.83%20%2F%2010-534ab7?style=flat-square" />
 
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=d4537e&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+applications;MERN+%7C+Java+%7C+System+Design+%7C+DSA;450%2B+DSA+problems+%7C+LeetCode+1766;Open+to+MERN%2C+AI+%26+Open+Source+collab" />
 
 </div>
 
-<br/>
 
 ---
 
