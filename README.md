@@ -159,3 +159,7 @@ open_to  : MERN  ·  AI  ·  Open Source collaborations
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=d4537e&height=80&section=footer" width="100%"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkankshaRaj07/AkankshaRaj07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
