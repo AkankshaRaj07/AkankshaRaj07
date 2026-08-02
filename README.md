@@ -31,7 +31,7 @@
 ```yaml
 name     : Akanksha Kumari
 focus    : Full Stack · Backend Systems · Problem Solving
-leetcode : Rating 1766  (Top ~10%)   |   450+ problems solved
+leetcode : Rating 1766  (Top ~10%)   |   1000+ problems solved
 learning : Advanced React · System Design · Backend Architecture
 open_to  : MERN  ·  AI  ·  Open Source collaborations
 ```
@@ -44,7 +44,7 @@ open_to  : MERN  ·  AI  ·  Open Source collaborations
 
 | 🏆 LeetCode | 🧠 DSA Solved | 🔥 Current Streak | 📈 Longest Streak | ⭐ Contributions |
 |:-----------:|:-------------:|:-----------------:|:-----------------:|:----------------:|
-| **1766** · Top ~10% | **450+** | **20 days** | **62 days** | **1,729** |
+| **1766** · Top ~10% | **1000+** | **20 days** | **62 days** | **1,729** |
 
 </div>
 
