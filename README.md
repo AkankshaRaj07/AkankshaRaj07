@@ -15,7 +15,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/LeetCode-1766%20%C2%B7%20Top%2010%25-ffa116?style=flat-square&logo=leetcode&logoColor=black" />
 &nbsp;
-<img src="https://img.shields.io/badge/DSA-450%2B%20Solved-1d9e75?style=flat-square" />
+<img src="https://img.shields.io/badge/DSA-1000%2B%20Solved-1d9e75?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/CGPA-8.83%20%2F%2010-534ab7?style=flat-square" />
 
